@@ -8,6 +8,6 @@ This site is designed as a portfolio. It demonstrates the use of such tools as:
 - Elastic layout (looks good on all resolutions)
 - Connecting non-standard fonts
 
-As a site development, it is planned to use a BEM nested file structure (at the moment, BEM is used only for classes) and the addition of smooth resizing when the resolution changes.
+As a site development, it is planned to use a BEM nested file structure (at the moment, BEM is used only for classes) and adding a language switch to Vietnamese in the header of the site.
 
 Website was developed by Igor Drogaitsev.
