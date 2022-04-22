@@ -31,13 +31,13 @@
 
 @media screen and (max-width: 568px) {
     .header {
-        padding: 16px 16px 0 16px;
+        padding: 16px 8px 0 8px;
     }
 }
 
 .header__logo {
     width: 250px;
-    height: 45px
+    height: 45px;
 }
 
 .header__langs {
@@ -49,7 +49,7 @@
     font-size: 24px;
     line-height: 1.17;
     color: black;
-    margin: 0 0 4px 18px;
+    margin: 0 0 4px 10px;
 }
 
 .header__link-lang_underline {
